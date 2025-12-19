@@ -41,6 +41,11 @@ Developed by: RegisterNumber:
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
+<img width="688" height="284" alt="Screenshot 2025-12-19 203217" src="https://github.com/user-attachments/assets/bb1252d3-721a-4a2f-b0a3-6b960f342056" />
+
 **TRUTH TABLE**
+<img width="1919" height="343" alt="Screenshot 2025-12-19 203452" src="https://github.com/user-attachments/assets/ba56f7bb-a164-42af-8f16-b2d8d0730ee3" />
+
 
 **RESULTS**
+Thus the 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is verified.
